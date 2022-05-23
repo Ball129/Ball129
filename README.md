@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ball129
-- 👀 I’m interested in **Python, Go, React, TypeScript, Machine Learning**
-- 🌱 I’m currently learning Solidity
+- 👀 I’m interested in **Python, Go, ReactJS, NextJS, TypeScript, Solidity, Machine Learning**
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me paparnball@gmail.com
 
